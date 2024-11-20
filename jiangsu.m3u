@@ -1,3 +1,53 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="rtmp://cstvplay.21cs.cn/cstv1/cstv1" tvg-logo="https://live.fanmingming.com/tv/rtmp://cstvplay.21cs.cn/cstv1/cstv1.png",rtmp://cstvplay.21cs.cn/cstv1/cstv1
-undefined
+#EXTINF:-1 tvg-name="昌邑经济" tvg-logo="https://live.fanmingming.com/tv/昌邑经济.png",昌邑经济
+rtmp://alivealone.litenews.cn/47/202304_1651887490510032896
+#EXTINF:-1 tvg-name="昌邑经济" tvg-logo="https://live.fanmingming.com/tv/昌邑经济.png",昌邑经济
+http://alivealone.litenews.cn/47/202304_1651887490510032896.flv
+#EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://live.fanmingming.com/tv/昌邑综合.png",昌邑综合
+http://alivealone.litenews.cn/47/202304_1651887490384203776.flv
+#EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://live.fanmingming.com/tv/昌邑综合.png",昌邑综合
+rtmp://alivealone.litenews.cn/47/202304_1651887490384203776
+#EXTINF:-1 tvg-name="常德公共" tvg-logo="https://live.fanmingming.com/tv/常德公共.png",常德公共
+http://lu1.cc/c/tv/huntv/cdxl1.php?id=ggpd
+#EXTINF:-1 tvg-name="常德新闻" tvg-logo="https://live.fanmingming.com/tv/常德新闻.png",常德新闻
+http://118.250.182.216:8888/udp/239.76.255.10:9000
+#EXTINF:-1 tvg-name="常熟经济" tvg-logo="https://live.fanmingming.com/tv/常熟经济.png",常熟经济
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 tvg-name="常熟经济" tvg-logo="https://live.fanmingming.com/tv/常熟经济.png",常熟经济
+http://cstvplay.21cs.cn/cstv2/cstv2.flv
+#EXTINF:-1 tvg-name="常熟民生" tvg-logo="https://live.fanmingming.com/tv/常熟民生.png",常熟民生
+rtmp://cstvplay.21cs.cn/cstv2/cstv2
+#EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://live.fanmingming.com/tv/常熟综合.png",常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://live.fanmingming.com/tv/常熟综合.png",常熟综合
+rtmp://cstvplay.21cs.cn/cstv1/cstv1
+#EXTINF:-1 tvg-name="常熟综合" tvg-logo="https://live.fanmingming.com/tv/常熟综合.png",常熟综合
+http://cstvplay.21cs.cn/cstv1/cstv1.flv
+#EXTINF:-1 tvg-name="无锡都市" tvg-logo="https://live.fanmingming.com/tv/无锡都市.png",无锡都市
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡都市" tvg-logo="https://live.fanmingming.com/tv/无锡都市.png",无锡都市
+http://stream.thmz.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8
+#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.com/tv/无锡经济.png",无锡经济
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png",无锡生活
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png",无锡生活
+rtmp://zb.pzhgd.com:5935/live/ggpd
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8
+#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.com/tv/无锡生活.png",无锡生活
+https://zb.pzhgd.com:444/live/ggpd.m3u8
+#EXTINF:-1 tvg-name="无锡新闻" tvg-logo="https://live.fanmingming.com/tv/无锡新闻.png",无锡新闻
+rtmp://zb.pzhgd.com:5935/live/xwzh
+#EXTINF:-1 tvg-name="无锡新闻" tvg-logo="https://live.fanmingming.com/tv/无锡新闻.png",无锡新闻
+https://zb.pzhgd.com:444/live/xwzh.m3u8
+#EXTINF:-1 tvg-name="无锡新闻" tvg-logo="https://live.fanmingming.com/tv/无锡新闻.png",无锡新闻
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡新闻" tvg-logo="https://live.fanmingming.com/tv/无锡新闻.png",无锡新闻
+http://stream.thmz.com/wxtv1/sd/live.m3u8
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png",无锡娱乐
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://live.fanmingming.com/tv/无锡娱乐.png",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8
