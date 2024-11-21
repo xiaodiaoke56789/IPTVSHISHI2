@@ -63,3 +63,35 @@ http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 tvg-name="[江苏]苏州新闻综合" tvg-logo="https://live.fanmingming.com/tv/[江苏]苏州新闻综合.png",[江苏]苏州新闻综合
 http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 tvg-name="SUZHOU2" tvg-logo="https://live.fanmingming.com/tv/SUZHOU2.png",SUZHOU2
+http://dg8006.runqidasoftware.top:10178/stream/channelid/796722579?ticket=9741515088b9ff6a60db10003a5dedd1408a4c06
+#EXTINF:-1 tvg-name="SUZHOU3" tvg-logo="https://live.fanmingming.com/tv/SUZHOU3.png",SUZHOU3
+http://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU4" tvg-logo="https://live.fanmingming.com/tv/SUZHOU4.png",SUZHOU4
+http://tvbox.netsite.cc/proxy/450307448/450307448.m3u8
+#EXTINF:-1 tvg-name="SUZHOU5" tvg-logo="https://live.fanmingming.com/tv/SUZHOU5.png",SUZHOU5
+http://tvbox6.icu/tv/migu.php?id=szxwzh
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/szxinwenzonghe/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://live.cooltv.top/tv/ytradio.php?id=694
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/norecord_csztv2/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tvbox.netsite.cc/proxy/565484838/565484838.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/szxinwenzonghe/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tvbox6.icu/tv/migu.php?id=szxwzh
