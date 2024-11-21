@@ -1,23 +1,35 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="http://cstvplay.21cs.cn/cstv1/cstv1.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://cstvplay.21cs.cn/cstv1/cstv1.m3u8.png",http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
-undefined
-#EXTINF:-1 tvg-name="http://litchi-play-encrypted-site.jstv.com/live/changshu.m3u8?txSecret=ba9726f3f7bf6962ce43e040983aecea&txTime=968075ef" tvg-logo="https://live.fanmingming.com/tv/http://litchi-play-encrypted-site.jstv.com/live/changshu.m3u8?txSecret=ba9726f3f7bf6962ce43e040983aecea&txTime=968075ef.png",http://litchi-play-encrypted-site.jstv.com/live/changshu.m3u8?txSecret=ba9726f3f7bf6962ce43e040983aecea&txTime=968075ef
-undefined
-#EXTINF:-1 tvg-name="http://cstvplay.21cs.cn/cstv1/cstv1.m3u8" tvg-logo="https://live.fanmingming.com/tv/http://cstvplay.21cs.cn/cstv1/cstv1.m3u8.png",http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv" tvg-logo="https://live.fanmingming.com/tv/https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv.png",https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv" tvg-logo="https://live.fanmingming.com/tv/https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv.png",https://stream1.freetv.fun/f05f1a957b101f21435a9cbc534451577f0b839ff27811d805839e9e28d38425.ctv
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8" tvg-logo="https://live.fanmingming.com/tv/https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8.png",https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8
-undefined
-#EXTINF:-1 tvg-name="https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8" tvg-logo="https://live.fanmingming.com/tv/https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8.png",https://stream1.freetv.fun/56faf8915247df85687d62c063f4e45cab43ec402d706e956258af11fdb2f9eb.m3u8
-undefined
-#EXTINF:-1 tvg-name="rtmp://cstvplay.21cs.cn/cstv2/cstv2" tvg-logo="https://live.fanmingming.com/tv/rtmp://cstvplay.21cs.cn/cstv2/cstv2.png",rtmp://cstvplay.21cs.cn/cstv2/cstv2
-undefined
-#EXTINF:-1 tvg-name="rtmp://cstvplay.21cs.cn/cstv2/cstv2" tvg-logo="https://live.fanmingming.com/tv/rtmp://cstvplay.21cs.cn/cstv2/cstv2.png",rtmp://cstvplay.21cs.cn/cstv2/cstv2
-undefined
-#EXTINF:-1 tvg-name="rtmp://cstvplay.21cs.cn/cstv1/cstv1" tvg-logo="https://live.fanmingming.com/tv/rtmp://cstvplay.21cs.cn/cstv1/cstv1.png",rtmp://cstvplay.21cs.cn/cstv1/cstv1
-undefined
-#EXTINF:-1 tvg-name="rtmp://cstvplay.21cs.cn/cstv1/cstv1" tvg-logo="https://live.fanmingming.com/tv/rtmp://cstvplay.21cs.cn/cstv1/cstv1.png",rtmp://cstvplay.21cs.cn/cstv1/cstv1
-undefined
+#EXTINF:-1 tvg-name="SUZHOU1" tvg-logo="https://live.fanmingming.com/tv/SUZHOU1.png",SUZHOU1
+YI
+#EXTINF:-1 tvg-name="SUZHOU2" tvg-logo="https://live.fanmingming.com/tv/SUZHOU2.png",SUZHOU2
+http://dg8006.runqidasoftware.top:10178/stream/channelid/796722579?ticket=9741515088b9ff6a60db10003a5dedd1408a4c06
+#EXTINF:-1 tvg-name="SUZHOU3" tvg-logo="https://live.fanmingming.com/tv/SUZHOU3.png",SUZHOU3
+http://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU4" tvg-logo="https://live.fanmingming.com/tv/SUZHOU4.png",SUZHOU4
+http://tvbox.netsite.cc/proxy/450307448/450307448.m3u8
+#EXTINF:-1 tvg-name="SUZHOU5" tvg-logo="https://live.fanmingming.com/tv/SUZHOU5.png",SUZHOU5
+http://tvbox6.icu/tv/migu.php?id=szxwzh
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/szxinwenzonghe/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8?zjiangsd
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://live.cooltv.top/tv/ytradio.php?id=694
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/norecord_csztv2/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tvbox.netsite.cc/proxy/565484838/565484838.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://116.136.170.12/mgsp-tx.live.miguvideo.com/wd_r2/jstv/szxinwenzonghe/600/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 tvg-name="SUZHOU" tvg-logo="https://live.fanmingming.com/tv/SUZHOU.png",SUZHOU
+http://tvbox6.icu/tv/migu.php?id=szxwzh
